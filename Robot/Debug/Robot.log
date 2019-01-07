@@ -1,0 +1,4 @@
+﻿  TripStart.cpp
+f:\visual works\robot\robot\tripstart.cpp(12): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  f:\visual works\robot\robot\tripstart.cpp(12): note: could be 'built-in C++ operator<<(bool, int)'
+  f:\visual works\robot\robot\tripstart.cpp(12): note: while trying to match the argument list '(std::istream, int)'
